@@ -59,6 +59,7 @@ python main.py task6
 python main.py task7
 ```
 Outputs
+```
 Task 1: task1_summary.json
 Task 2: task2_summary.json
 Task 3: task3_boxplot.png
@@ -66,6 +67,7 @@ Task 4: task4_summary.json
 Task 5: task5_histogram_weekend.png, task5_histogram_weekday.png
 Task 6: task6_scatter.png
 Task 7: task7_pie.png
+```
 
 ## Tools used  
 - Python
