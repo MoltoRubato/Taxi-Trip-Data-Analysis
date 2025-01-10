@@ -74,7 +74,7 @@ Task 7: task7_pie.png
 - pandas, re, matplotlib 
 
 ## Contributors
-- Ryan Huang
+- Kerui Huang
 - University of Melbourne COMP20008 Teaching Team (Helper function and question provider)
 
 ## License
